@@ -82,6 +82,7 @@ Test search bar by using incorrect/nonsense search term.
 
 
 #### Expected result
-The page should display >0 rezultate pentru: "tqunv iohpUGITQFIOUNG"
+The page should display
+> 0 rezultate pentru: "tqunv iohpUGITQFIOUNG"
 
 
