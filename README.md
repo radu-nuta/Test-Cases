@@ -21,3 +21,6 @@ Email should be received on company email account with correct info (from the fo
 - Sender Email: place.holder@gmail.com
 - Subject: Test_123
 - Message: Test_123
+
+** This test has been automated due to its low complexity, high frequency and high time demand **
+** You can check the code in the * Test Automation * repository **
