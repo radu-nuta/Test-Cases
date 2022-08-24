@@ -37,7 +37,7 @@ Test whether the search term introduced in the search bar returns that particula
 
 
 #### Steps to reproduce
-1. Go to emag.ro
+1. Go to https://www.emag.ro
 2. Input "iPhone x" in the search bar
 3. Click Search / press enter key
 4. Observe search results
@@ -57,7 +57,7 @@ Test whether the search bar autocompletes a particular word before having typed 
 
 
 #### Steps to reproduce
-1. Go to emag.ro
+1. Go to https://www.emag.ro
 2. Input "iPho" in the search bar
 3. Observe what word is autocompleted
 
@@ -75,7 +75,7 @@ Test search bar by using incorrect/nonsense search term.
 
 
 #### Steps to reproduce
-1. Go to emag.ro
+1. Go to http://www.emag.ro
 2. Input "tqunv iohpUGITQFIOUNG" in the search bar
 3. Click Search / press enter key
 4. Observe behaviour
