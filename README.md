@@ -1,7 +1,7 @@
 # Test Case Samples
 
 ## For damarc.ro website:
-```
+
 #### Title
 Test contact form
 
@@ -24,11 +24,11 @@ Email should be received on company email account with correct info (from the fo
 
 **This test has been automated due to its low complexity, high frequency and high time demand**
 **You can check the code in the *Test Automation* repository**
-```
+
 
 
 ## For emag.ro website:
-```
+
 #### Title
 Test Search bar results
 
@@ -45,9 +45,10 @@ Test whether the search term introduced in the search bar returns that particula
 
 #### Expected result
 The results should be iPhone X smartphones with different hardware configurations.
-```
+______________________________________________________________________________________________
 
-```
+
+
 #### Title
 Test search bar autocomplete
 
@@ -63,7 +64,6 @@ Test whether the search bar autocompletes a particular word before having typed 
 
 
 #### Expected result
-The search bar should autocomplete the term and suggest "iPhone"
-```
+The search bar should autocomplete the term and suggest "iPhone".
 
 
