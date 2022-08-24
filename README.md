@@ -22,5 +22,47 @@ Email should be received on company email account with correct info (from the fo
 - Subject: Test_123
 - Message: Test_123
 
-** This test has been automated due to its low complexity, high frequency and high time demand **
-** You can check the code in the * Test Automation * repository **
+**This test has been automated due to its low complexity, high frequency and high time demand**
+**You can check the code in the *Test Automation* repository**
+
+
+
+## For emag.ro website:
+
+#### Title
+Test Search bar results
+
+#### Description
+Test whether the search term introduced in the search bar returns that particular item/items.
+
+
+#### Steps to reproduce
+1. Go to emag.ro
+2. Input "iPhone x" in the search bar
+3. Click Search / press enter key
+4. Observe search results
+
+
+#### Expected result
+The results should be iPhone X smartphones with different hardware configurations.
+
+
+
+#### Title
+Test search bar autocomplete
+
+#### Description
+Test whether the search bar autocompletes a particular word before having typed it completely.
+
+
+#### Steps to reproduce
+1. Go to emag.ro
+2. Input "iPho" in the search bar
+3. Observe what word is autocompleted
+
+
+
+#### Expected result
+The search bar should autocomplete the term and suggest "iPhone"
+
+
