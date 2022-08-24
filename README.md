@@ -65,5 +65,23 @@ Test whether the search bar autocompletes a particular word before having typed 
 
 #### Expected result
 The search bar should autocomplete the term and suggest "iPhone".
+______________________________________________________________________________________________
+
+#### Title
+Test search bar with incorrect search term
+
+#### Description
+Test search bar by using incorrect/nonsense search term.
+
+
+#### Steps to reproduce
+1. Go to emag.ro
+2. Input "tqunv iohpUGITQFIOUNG" in the search bar
+3. Click Search / press enter key
+4. Observe behaviour
+
+
+#### Expected result
+The page should display >0 rezultate pentru: "tqunv iohpUGITQFIOUNG"
 
 
